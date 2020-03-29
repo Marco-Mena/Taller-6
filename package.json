@@ -1,0 +1,17 @@
+{
+  "name": "proyecto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@material-ui/core": "^4.9.7",
+    "express": "^4.17.1",
+    "material-datatable": "^0.4.1",
+    "material-icons": "^0.3.1"
+  }
+}
